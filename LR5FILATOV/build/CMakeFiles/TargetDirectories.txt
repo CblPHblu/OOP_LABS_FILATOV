@@ -1,0 +1,5 @@
+/mnt/c/Users/user/Desktop/МАИ/2 курс/ООП/LR5FILATOV/build/CMakeFiles/LR5FILATOV.dir
+/mnt/c/Users/user/Desktop/МАИ/2 курс/ООП/LR5FILATOV/build/CMakeFiles/test001.dir
+/mnt/c/Users/user/Desktop/МАИ/2 курс/ООП/LR5FILATOV/build/CMakeFiles/test.dir
+/mnt/c/Users/user/Desktop/МАИ/2 курс/ООП/LR5FILATOV/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/Desktop/МАИ/2 курс/ООП/LR5FILATOV/build/CMakeFiles/rebuild_cache.dir
